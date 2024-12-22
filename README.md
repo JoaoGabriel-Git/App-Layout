@@ -1,6 +1,6 @@
-# myapp
+# App Layout
 
-A new Flutter project.
+Atividade ligada a unidade 2 do curso TalentoTech-PR
 
 ## Getting Started
 
